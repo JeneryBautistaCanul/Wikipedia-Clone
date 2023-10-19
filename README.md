@@ -30,4 +30,4 @@ Las tecnologías que utilizamos fueron:
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
 
 ## Link a Demo
-Aquí puedes ver nuestro proyecto terminado: [](#)
+Aquí puedes ver nuestro proyecto terminado: [https://jenerybautistacanul.github.io/Wikipedia-Clone/](#)
